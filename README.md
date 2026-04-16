@@ -1,2 +1,3 @@
-# Deteccao_Reconhecimento_Placas_Veiculos_YOLOv8
-Trabalho de Conclusão de Curso (TCC) - Bacharelado em Sistemas de Informação (IFC - Campus Araquari | 2026)
+# Detecção e Reconhecimento de Placas de Veículos com YOLOv8
+Sistema capaz de realizar a detecção e o reconhecimento de placas veiculares em imagens, utilizando redes
+neurais convolucionais baseadas na arquitetura YOLOv8.
